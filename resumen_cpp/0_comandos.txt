@@ -1,3 +1,0 @@
-run:
-g++ 4_Namespaces.cpp -o 4_Namespaces
-.\4_Namespaces

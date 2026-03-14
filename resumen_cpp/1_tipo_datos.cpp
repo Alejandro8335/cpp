@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 
 int main() {
 	int int_0;//declaracion
@@ -9,6 +10,7 @@ int main() {
 	int int_2 = 24.5;// va a guardar el 24
 	std::cout <<int_2<< std::endl;
 
+	// std::cout por defecto solo muestra 6 cifras significativas.
 	double double_0 = 0.0123456789;//64 bits,aprox 15 decimales 
 	std::cout << double_0 << std::endl;
 

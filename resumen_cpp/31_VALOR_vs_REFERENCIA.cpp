@@ -2,7 +2,6 @@
 
 using namespace std;
 
-// & = id en python y tmb sirve para pasarle la referencia en memoria
 void sumar_uno_valor(int x){x++;}
 
 void sumar_uno_referencia(int &x){x++;}
