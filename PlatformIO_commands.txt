@@ -1,0 +1,45 @@
+Check (✓)
+Qué hace
+
+Compila el código
+
+Revisa errores de sintaxis
+
+Verifica librerías y configuración (platformio.ini)
+
+NO sube nada a la placa
+
+=====================================================================
+🚀 Upload
+Qué hace
+
+Compila el código
+
+Flashea (sube) el programa al microcontrolador
+
+=====================================================================
+🧹 Clean
+Qué hace:
+
+    Borra archivos temporales de compilación (.pio/build)
+
+    NO borra tu código
+
+    NO borra la placa
+
+Cuándo usarlo:
+
+    Errores raros de compilación
+
+    Librerías que no se actualizan
+
+    Después de cambiar placa / framework
+
+=====================================================================
+Qué hace
+
+Abre el monitor serie
+
+Muestra datos enviados por Serial.print() / print()
+
+Permite enviar texto a la placa
